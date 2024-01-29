@@ -7,13 +7,11 @@
 ## Problem addressed
 
 We assigned a project number to every writing project.
-This number is stored in a sqlite database along with the project's directory name.
+This number is stored in a sqlite database (could use a spreadsheet) along with the project's directory name.
 This number begins the name of the project's folder in the home directory.
 By entering the project number and hitting tab we can tab complete the project folder name and move to it.
 We use both the project number and the project directory name in various LaTeX macros that are mapped to voice commands for use with the Voice In Plus plug-in for Google Chrome.
 
-We wrote another script for the reading of the database and writing out the Voice In commands for all the existing projects.
-However, we needed something simpler when adding a new project.
 The script above, `newproj.py`, generates these voice commands for a new project and writes them to a CSV file.
 The contents of the CSV file can be copied and pasted in the window for the bulk add menu item In the Voice In Plus GUI.
 
