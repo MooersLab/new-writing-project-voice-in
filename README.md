@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/static/v1?label=new-writing-project-voice-in&message=0.1&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 # new-writing-project-voice-in: Generate Voice In commands for a new writing project
 
 ## Problem addressed
