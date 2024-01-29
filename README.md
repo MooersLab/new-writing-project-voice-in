@@ -1,7 +1,7 @@
 # new-writing-project-voice-in: Generate Voice In commands for a new writing project
 
-* Problem addressed
-* 
+## Problem addressed
+
 We assigned a project number to every writing project.
 This number is stored in a sqlite database along with the project's directory name.
 This number begins the name of the project's folder in the home directory.
