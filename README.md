@@ -16,7 +16,7 @@ The contents of the CSV file can be copied and pasted in the window for the bulk
 The above script also prints to the terminal a protocol for setting up a new writing project as itemized list in LaTeX.
 This serves as a reminder of the steps involved in setting up a new writing project.
 The writing project resides in Overleaf where it has its own web page.
-We map the \url{https://www.overleaf.com/project/659eaf3a5a122987aef346fb} for this web page to the Voice In command `overleaf <ProjID>` so that we can open the projects web page in Overleaf by using the voice command.
+We map the URL for this web page to the Voice In command `overleaf <ProjID>` so that we can open the projects web page in Overleaf by using the voice command.
 We likewise track the number of words written per day for a project and the time spent on the project in a Project Specific sheet inside of a Google Sheets workbook.
 Each such project sheet has its own URL.
 We map the voice command `sheet  <ProjID>` to this URL so that we can quickly pop open the corresponding project sheet for the entry of the day's writing progress on that particular project.
