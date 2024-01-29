@@ -27,3 +27,10 @@ We map the voice command `sheet  <ProjID>` to this URL so that we can quickly po
 
 The above script is set up for LaTeX markup, but it could be easily converted for use with other markup languages such as Markdown, reStructuredText, org-mode, and HTML.
 We intend to make such variants of the script when time permits.
+
+## Example usage
+
+```bash
+chmod +x ./newproj.py
+./newproj.py 0101 0101hotPaper
+```
